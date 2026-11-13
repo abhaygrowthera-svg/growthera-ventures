@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://growtheraventures.com/sitemap.xml
